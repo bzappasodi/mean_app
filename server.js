@@ -4,7 +4,8 @@
 
 //
 // "require" statements to bring in needed Node Modules
-//
+// mongodb://bzappasodi:megastar12@ds031915.mlab.com:31915/newswatcherdb
+
 var express = require('express'); // For route handlers and templates to serve up.
 var path = require('path'); // Populating the path property of the request
 var logger = require('morgan'); // HTTP request logging
